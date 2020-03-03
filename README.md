@@ -54,4 +54,4 @@ client.emit('test', {
 ___
 ## Problems
 
- If you have errors in console or unwanted behavior please create an issue [here](https://github.com/Mathieu2301/blast-request-api/issues).
+ If you have errors in console or unwanted behavior please create an issue [here](https://github.com/Mathieu2301/blast-api/issues).
