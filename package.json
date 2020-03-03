@@ -1,0 +1,17 @@
+{
+  "name": "blast-polling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "blast"
+  ],
+  "author": "Mathieu Colmon",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
