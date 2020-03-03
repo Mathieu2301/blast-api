@@ -1,8 +1,8 @@
 {
-  "name": "blast-polling",
+  "name": "blast-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "test.js",
+  "description": "blast-request-api",
+  "main": "blast.js",
   "scripts": {
     "test": "node test"
   },
