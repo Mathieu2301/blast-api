@@ -7,6 +7,9 @@
 npm i blast-api
 ```
 
+## Examples (Projects using Blast)
+- [MiBand Chat](https://github.com/Mathieu2301/miband-chat/)
+
 ## Use 
 (Check ``test.js`` file)
 
